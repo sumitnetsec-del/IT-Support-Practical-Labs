@@ -28,7 +28,7 @@ I checked that there is enough free disk space.
 ![Win 10 setup](08-win10-setup.png)
 
 ## Step 9: Installation
-![Installing](09-installation.png)
+![Installing](09-installation.PNG)
 
 ## Step 10: Finished, VM home screen
 ![VM home](10-vm-home.png)
